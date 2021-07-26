@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_ca862477-afaf-4711-9524-694a68784cc4",
+      "org_id": "user_bdbd268e-30ef-4e9e-92d9-61cba042680e",
+      "deploy_url": "https://github.com/QafResearchLab/twitter_hashtags_crawler.git",
+      "name": "twitter_hashtags_crawler",
+      "alias": "twitter_hashtags_crawler"
+    }
+  ]
+}
